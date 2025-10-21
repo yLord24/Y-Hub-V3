@@ -1,7 +1,7 @@
 --//Services
 
 --//Variables
-local loadersList = loadstring(game:HttpGet("https://raw.githubusercontent.com/yLord24/Y-Hub-V3/refs/heads/main/LuarmorLoaders"))()
+local loadersList = loadstring(game:HttpGet("https://raw.githubusercontent.com/yLord24/Y-Hub-V3/_/LuarmorLoaders"))()
 local currentPlaceId = tostring(game.PlaceId)
 
 --//Source
