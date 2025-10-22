@@ -21,5 +21,5 @@ for placeId: string, Loader: any in next, loadersList do
 end
 
 if not foundLoader then
-    Players.LocaPlayer:Kick("Y Hub V3: Game not supported or not found.")
+    Players.LocalPlayer:Kick("Y Hub V3: Game not supported or not found.")
 end
