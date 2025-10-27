@@ -1,5 +1,5 @@
 
--- >[PlaceID] = Loader (in case you are curious 😉)
+-- > [PlaceID] = Loader (in case you are curious 😉)
 
 return {
 ["111852396485871"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd89e4002a0b531f6dd589be25c49ad8.lua")), --Pokemon Bronze Forever
