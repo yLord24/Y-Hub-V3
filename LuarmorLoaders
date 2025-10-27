@@ -1,7 +1,7 @@
 
--- > [PlaceID] = Loader (in case you are curious 😉)
+-- >[PlaceID] = Loader (in case you are curious 😉)
 
 return {
 ["111852396485871"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e77ac07db83f5ca517076e9135d54aa5.lua")), --Pokemon Bronze Forever
-["110210306365478"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e4ff2b2263277f53243fd39493fedc3b.lua")) --Pokemon Roria Conquest
+["116901489143961"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93e5e925aca904d0fe0a91a076ae3527.lua")), --Pokemon Roria Conquest
 }
