@@ -3,5 +3,5 @@
 
 return {
 ["90966513484611"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd89e4002a0b531f6dd589be25c49ad8.lua")), --Pokemon Bronze Forever
-["130623496519004"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93e5e925aca904d0fe0a91a076ae3527.lua")), --Pokemon Roria Conquest
+["79845406481611"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93e5e925aca904d0fe0a91a076ae3527.lua")), --Pokemon Roria Conquest
 }
