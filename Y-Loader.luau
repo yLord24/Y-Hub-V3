@@ -4,6 +4,7 @@ local Players = game:GetService("Players")
 --//Variables
 local foundLoader = false
 local loadersList = loadstring(game:HttpGet("https://raw.githubusercontent.com/yLord24/Y-Hub-V3/_/LuarmorLoaders"))()
+local Adjuster = loadstring(game:HttpGet("https://raw.githubusercontent.com/yLord24/Y-Hub-V3/_/Adjuster.luau"))()
 local currentPlaceId = tostring(game.PlaceId)
 
 --//Source
