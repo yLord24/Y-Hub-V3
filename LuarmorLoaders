@@ -1,7 +1,14 @@
 
 -- > [PlaceID] = Loader (in case you are curious 😉)
 
+local Pokemon_Bronze_Forever = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd89e4002a0b531f6dd589be25c49ad8.lua"))
+local Pokemon_Roria_Conquest = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd89e4002a0b531f6dd589be25c49ad8.lua"))
+
 return {
-["90966513484611"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd89e4002a0b531f6dd589be25c49ad8.lua")), --Pokemon Bronze Forever
-["133400739215037"] = loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93e5e925aca904d0fe0a91a076ae3527.lua")), --Pokemon Roria Conquest
+["90966513484611"] = Pokemon_Bronze_Forever,
+["1334007392150371"] = Pokemon_Roria_Conquest,
+
+--// Place Names (2nd checking)
+
+["Pokemon: Roria Conquest | Brick Bronze"] = Pokemon_Roria_Conquest,
 }
