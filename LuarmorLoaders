@@ -10,7 +10,6 @@ return {
 ["75534240725899"] = Pokemon_Roria_Conquest,
 
 --// Place Names (2nd checking)
-["Pokemon: Roria Conquest | Brick Bronze"] = Pokemon_Roria_Conquest,
-["Roria Conquest"] = Pokemon_Roria_Conquest,
-["M"] = Pokemon_Bronze_Forever,
+["Pokemon Roria Conquest"] = Pokemon_Roria_Conquest,
+["Pokemon Bronze Forever"] = Pokemon_Bronze_Forever,
 }
